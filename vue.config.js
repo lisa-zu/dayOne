@@ -1,5 +1,4 @@
 module.exports = {
     transpileDependencies: true,
-    publicPath:'',
-    base: './',
+    publicPath: process.env.NODE_ENV === "production" ? "/vue-deploy/" : "/",
 };
