@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lisa-zu.github.ui/dayOne/",
+  "homepage": "https://lisa-zu.github.io/dayOne/",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",

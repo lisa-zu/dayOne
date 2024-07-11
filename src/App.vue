@@ -38,6 +38,6 @@
 
 <template>
   <div class='w-full h-full flex flex-col items-center justify-center'>
-    <h1 class='text-8xl font-bold font-mono mb-2'>{{ timeDifferenceString }}</h1>
+    <h1 class='sm:text-2xl md:text-4xl text-8xl font-bold font-mono mb-2'>{{ timeDifferenceString }}</h1>
   </div>
 </template>
